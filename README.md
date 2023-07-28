@@ -20,7 +20,7 @@ ScreenShots
 
 5.SignUpPage
 
-![signup](cartt.PNG)
+![signup](signup.PNG)
 
 6.ForgetPage
 
